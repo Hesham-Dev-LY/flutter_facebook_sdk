@@ -16,6 +16,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.dependency 'FBSDKCoreKit', '~> 17.0.0'
+  s.dependency 'FBAEMKit', '~> 17.0.0'
   s.platform = :ios, '12.0'
 
   # Flutter.framework does not contain a i386 slice.
